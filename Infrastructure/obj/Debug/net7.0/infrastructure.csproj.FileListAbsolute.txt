@@ -1,0 +1,34 @@
+E:\Practics\Todo\infrastructure\obj\Debug\net7.0\infrastructure.csproj.AssemblyReference.cache
+E:\Practics\Todo\infrastructure\obj\Debug\net7.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practics\Todo\infrastructure\obj\Debug\net7.0\infrastructure.AssemblyInfoInputs.cache
+E:\Practics\Todo\infrastructure\obj\Debug\net7.0\infrastructure.AssemblyInfo.cs
+E:\Practics\Todo\infrastructure\obj\Debug\net7.0\infrastructure.csproj.CoreCompileInputs.cache
+E:\Practics\Todo\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+E:\Practics\Todo\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+E:\Practics\Todo\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+E:\Practics\Todo\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+E:\Practics\Todo\Infrastructure\bin\Debug\net7.0\core.dll
+E:\Practics\Todo\Infrastructure\bin\Debug\net7.0\core.pdb
+E:\Practics\Todo\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+E:\Practics\Todo\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+E:\Practics\Todo\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+E:\Practics\Todo\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+E:\Practics\Todo\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+E:\Practics\Todo\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\infrastructure\bin\Debug\net7.0\infrastructure.deps.json
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\infrastructure\bin\Debug\net7.0\infrastructure.runtimeconfig.json
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\Infrastructure\bin\Debug\net7.0\infrastructure.dll
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\Infrastructure\bin\Debug\net7.0\infrastructure.pdb
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\Infrastructure\bin\Debug\net7.0\core.dll
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\Infrastructure\bin\Debug\net7.0\core.pdb
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\Infrastructure\obj\Debug\net7.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\Infrastructure\obj\Debug\net7.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\Infrastructure\obj\Debug\net7.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\Infrastructure\obj\Debug\net7.0\infrastructure.AssemblyInfo.cs
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\Infrastructure\obj\Debug\net7.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\infrastructure\obj\Debug\net7.0\infrastructure.csproj.CopyComplete
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\Infrastructure\obj\Debug\net7.0\infrastructure.dll
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\Infrastructure\obj\Debug\net7.0\refint\infrastructure.dll
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\Infrastructure\obj\Debug\net7.0\infrastructure.pdb
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\infrastructure\obj\Debug\net7.0\infrastructure.genruntimeconfig.cache
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\infrastructure\obj\Debug\net7.0\ref\infrastructure.dll

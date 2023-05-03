@@ -1,0 +1,24 @@
+E:\Practics\Todo\core\bin\Debug\net7.0\core.deps.json
+E:\Practics\Todo\core\bin\Debug\net7.0\core.dll
+E:\Practics\Todo\core\bin\Debug\net7.0\core.pdb
+E:\Practics\Todo\core\obj\Debug\net7.0\core.csproj.AssemblyReference.cache
+E:\Practics\Todo\core\obj\Debug\net7.0\core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practics\Todo\core\obj\Debug\net7.0\core.AssemblyInfoInputs.cache
+E:\Practics\Todo\core\obj\Debug\net7.0\core.AssemblyInfo.cs
+E:\Practics\Todo\core\obj\Debug\net7.0\core.csproj.CoreCompileInputs.cache
+E:\Practics\Todo\core\obj\Debug\net7.0\core.dll
+E:\Practics\Todo\core\obj\Debug\net7.0\refint\core.dll
+E:\Practics\Todo\core\obj\Debug\net7.0\core.pdb
+E:\Practics\Todo\core\obj\Debug\net7.0\ref\core.dll
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\core\bin\Debug\net7.0\core.deps.json
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\core\bin\Debug\net7.0\core.dll
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\core\bin\Debug\net7.0\core.pdb
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\core\obj\Debug\net7.0\core.csproj.AssemblyReference.cache
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\core\obj\Debug\net7.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\core\obj\Debug\net7.0\core.AssemblyInfoInputs.cache
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\core\obj\Debug\net7.0\core.AssemblyInfo.cs
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\core\obj\Debug\net7.0\core.csproj.CoreCompileInputs.cache
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\core\obj\Debug\net7.0\core.dll
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\core\obj\Debug\net7.0\refint\core.dll
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\core\obj\Debug\net7.0\core.pdb
+C:\Users\SPARK GATEWAY\Downloads\Todo\Todo\core\obj\Debug\net7.0\ref\core.dll
